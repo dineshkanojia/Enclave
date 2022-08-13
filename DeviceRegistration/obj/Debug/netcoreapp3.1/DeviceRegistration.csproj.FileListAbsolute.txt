@@ -1,0 +1,9 @@
+C:\Personal\ProjectFinal\Enclave\DeviceRegistration\bin\Debug\netcoreapp3.1\DeviceRegistration.deps.json
+C:\Personal\ProjectFinal\Enclave\DeviceRegistration\bin\Debug\netcoreapp3.1\DeviceRegistration.dll
+C:\Personal\ProjectFinal\Enclave\DeviceRegistration\bin\Debug\netcoreapp3.1\DeviceRegistration.pdb
+C:\Personal\ProjectFinal\Enclave\DeviceRegistration\obj\Debug\netcoreapp3.1\DeviceRegistration.AssemblyInfoInputs.cache
+C:\Personal\ProjectFinal\Enclave\DeviceRegistration\obj\Debug\netcoreapp3.1\DeviceRegistration.AssemblyInfo.cs
+C:\Personal\ProjectFinal\Enclave\DeviceRegistration\obj\Debug\netcoreapp3.1\DeviceRegistration.csproj.CoreCompileInputs.cache
+C:\Personal\ProjectFinal\Enclave\DeviceRegistration\obj\Debug\netcoreapp3.1\DeviceRegistration.dll
+C:\Personal\ProjectFinal\Enclave\DeviceRegistration\obj\Debug\netcoreapp3.1\DeviceRegistration.pdb
+C:\Personal\ProjectFinal\Enclave\DeviceRegistration\obj\Debug\netcoreapp3.1\DeviceRegistration.csprojAssemblyReference.cache

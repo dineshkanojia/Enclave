@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CallingEnclaveWrapper/1.0.0": {
+        "dependencies": {
+          "EnclaveWrapper": "1.0.0"
+        },
+        "runtime": {
+          "CallingEnclaveWrapper.dll": {}
+        }
+      },
+      "EnclaveWrapper/1.0.0": {
+        "runtime": {
+          "EnclaveWrapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CallingEnclaveWrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnclaveWrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

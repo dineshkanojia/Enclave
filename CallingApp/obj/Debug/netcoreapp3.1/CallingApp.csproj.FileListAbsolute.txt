@@ -1,0 +1,16 @@
+C:\Personal\ProjectFinal\Enclave\CallingApp\bin\Debug\netcoreapp3.1\CallingApp.exe
+C:\Personal\ProjectFinal\Enclave\CallingApp\bin\Debug\netcoreapp3.1\CallingApp.deps.json
+C:\Personal\ProjectFinal\Enclave\CallingApp\bin\Debug\netcoreapp3.1\CallingApp.runtimeconfig.json
+C:\Personal\ProjectFinal\Enclave\CallingApp\bin\Debug\netcoreapp3.1\CallingApp.runtimeconfig.dev.json
+C:\Personal\ProjectFinal\Enclave\CallingApp\bin\Debug\netcoreapp3.1\CallingApp.dll
+C:\Personal\ProjectFinal\Enclave\CallingApp\bin\Debug\netcoreapp3.1\CallingApp.pdb
+C:\Personal\ProjectFinal\Enclave\CallingApp\obj\Debug\netcoreapp3.1\CallingApp.AssemblyInfoInputs.cache
+C:\Personal\ProjectFinal\Enclave\CallingApp\obj\Debug\netcoreapp3.1\CallingApp.AssemblyInfo.cs
+C:\Personal\ProjectFinal\Enclave\CallingApp\obj\Debug\netcoreapp3.1\CallingApp.csproj.CoreCompileInputs.cache
+C:\Personal\ProjectFinal\Enclave\CallingApp\obj\Debug\netcoreapp3.1\CallingApp.dll
+C:\Personal\ProjectFinal\Enclave\CallingApp\obj\Debug\netcoreapp3.1\CallingApp.pdb
+C:\Personal\ProjectFinal\Enclave\CallingApp\obj\Debug\netcoreapp3.1\CallingApp.genruntimeconfig.cache
+C:\Personal\ProjectFinal\Enclave\CallingApp\bin\Debug\netcoreapp3.1\EnclaveWrapper.dll
+C:\Personal\ProjectFinal\Enclave\CallingApp\bin\Debug\netcoreapp3.1\EnclaveWrapper.pdb
+C:\Personal\ProjectFinal\Enclave\CallingApp\obj\Debug\netcoreapp3.1\CallingApp.csprojAssemblyReference.cache
+C:\Personal\ProjectFinal\Enclave\CallingApp\obj\Debug\netcoreapp3.1\CallingApp.csproj.CopyComplete

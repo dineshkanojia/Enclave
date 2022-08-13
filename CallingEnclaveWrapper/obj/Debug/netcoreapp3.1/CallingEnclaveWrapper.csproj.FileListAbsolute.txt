@@ -1,0 +1,12 @@
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\bin\Debug\netcoreapp3.1\CallingEnclaveWrapper.deps.json
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\bin\Debug\netcoreapp3.1\CallingEnclaveWrapper.dll
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\bin\Debug\netcoreapp3.1\CallingEnclaveWrapper.pdb
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\bin\Debug\netcoreapp3.1\EnclaveWrapper.dll
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\bin\Debug\netcoreapp3.1\EnclaveWrapper.pdb
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\obj\Debug\netcoreapp3.1\CallingEnclaveWrapper.csprojAssemblyReference.cache
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\obj\Debug\netcoreapp3.1\CallingEnclaveWrapper.AssemblyInfoInputs.cache
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\obj\Debug\netcoreapp3.1\CallingEnclaveWrapper.AssemblyInfo.cs
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\obj\Debug\netcoreapp3.1\CallingEnclaveWrapper.csproj.CoreCompileInputs.cache
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\obj\Debug\netcoreapp3.1\CallingEnclaveWrapper.csproj.CopyComplete
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\obj\Debug\netcoreapp3.1\CallingEnclaveWrapper.dll
+C:\Personal\ProjectFinal\Enclave\CallingEnclaveWrapper\obj\Debug\netcoreapp3.1\CallingEnclaveWrapper.pdb
